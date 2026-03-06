@@ -1,0 +1,301 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Region,Division,Product Name,Factory,Sales,Units,Cost,Gross Profit
+1,ORD-1000,27-06-2024,02-07-2024,Same Day,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,204,8,221,-17
+2,ORD-1001,20-09-2024,22-09-2024,Standard,East,Sugar,Hair Toffee,The Other Factory,303,7,245,58
+3,ORD-1002,06-03-2024,08-03-2024,Standard,East,Other,Kazookles,The Other Factory,201,3,287,-86
+4,ORD-1003,12-05-2024,16-05-2024,Standard,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,329,8,162,167
+5,ORD-1004,23-02-2024,03-03-2024,Express,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,410,4,154,256
+6,ORD-1005,05-05-2024,10-05-2024,Same Day,East,Other,Kazookles,The Other Factory,424,1,247,177
+7,ORD-1006,28-02-2024,02-03-2024,Standard,South,Other,Kazookles,The Other Factory,213,1,188,25
+8,ORD-1007,25-02-2024,28-02-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,429,4,59,370
+9,ORD-1008,18-01-2024,24-01-2024,Same Day,South,Sugar,Nerds,Sugar Shack,283,1,76,207
+10,ORD-1009,23-12-2024,25-12-2024,Standard,South,Other,Fizzy Lifting Drinks,Secret Factory,216,3,197,19
+11,ORD-1010,12-09-2024,14-09-2024,Express,South,Sugar,Hair Toffee,The Other Factory,489,9,276,213
+12,ORD-1011,16-07-2024,22-07-2024,Same Day,Central,Sugar,Laffy Taffy,Sugar Shack,245,10,256,-11
+13,ORD-1012,25-06-2024,01-07-2024,Same Day,Central,Other,Fizzy Lifting Drinks,Secret Factory,255,6,69,186
+14,ORD-1013,06-09-2024,16-09-2024,Same Day,Central,Sugar,Nerds,Sugar Shack,235,6,201,34
+15,ORD-1014,13-11-2024,19-11-2024,Express,West,Sugar,SweeTARTS,Sugar Shack,351,3,179,172
+16,ORD-1015,11-09-2024,14-09-2024,Same Day,East,Other,Kazookles,The Other Factory,345,2,96,249
+17,ORD-1016,03-05-2024,08-05-2024,Same Day,West,Sugar,Fun Dip,Sugar Shack,331,8,55,276
+18,ORD-1017,29-01-2024,06-02-2024,Same Day,East,Sugar,SweeTARTS,Sugar Shack,443,6,232,211
+19,ORD-1018,17-03-2024,24-03-2024,Same Day,West,Sugar,SweeTARTS,Sugar Shack,478,2,59,419
+20,ORD-1019,08-02-2024,12-02-2024,Express,West,Sugar,Fun Dip,Sugar Shack,296,8,252,44
+21,ORD-1020,14-04-2024,19-04-2024,Same Day,West,Sugar,SweeTARTS,Sugar Shack,199,5,179,20
+22,ORD-1021,22-11-2024,25-11-2024,Standard,South,Sugar,Nerds,Sugar Shack,325,2,222,103
+23,ORD-1022,06-02-2024,15-02-2024,Express,South,Sugar,Nerds,Sugar Shack,473,4,139,334
+24,ORD-1023,21-01-2024,31-01-2024,Standard,East,Other,Fizzy Lifting Drinks,Secret Factory,390,5,255,135
+25,ORD-1024,26-11-2024,02-12-2024,Express,West,Sugar,SweeTARTS,Sugar Shack,188,9,99,89
+26,ORD-1025,18-02-2024,22-02-2024,Standard,Central,Sugar,Fun Dip,Sugar Shack,343,1,164,179
+27,ORD-1026,16-05-2024,25-05-2024,Same Day,South,Sugar,Everlasting Gobstopper,Secret Factory,429,1,215,214
+28,ORD-1027,10-06-2024,17-06-2024,Standard,East,Other,Kazookles,The Other Factory,472,10,155,317
+29,ORD-1028,14-06-2024,19-06-2024,Express,Central,Sugar,Nerds,Sugar Shack,446,10,74,372
+30,ORD-1029,10-03-2024,12-03-2024,Same Day,Central,Sugar,Nerds,Sugar Shack,433,1,158,275
+31,ORD-1030,08-03-2024,17-03-2024,Standard,West,Sugar,Laffy Taffy,Sugar Shack,100,2,121,-21
+32,ORD-1031,15-12-2024,22-12-2024,Same Day,Central,Sugar,SweeTARTS,Sugar Shack,158,2,284,-126
+33,ORD-1032,18-03-2024,21-03-2024,Same Day,South,Other,Fizzy Lifting Drinks,Secret Factory,219,5,76,143
+34,ORD-1033,19-10-2024,28-10-2024,Same Day,South,Sugar,Laffy Taffy,Sugar Shack,453,5,146,307
+35,ORD-1034,26-05-2024,02-06-2024,Same Day,East,Sugar,Nerds,Sugar Shack,359,2,93,266
+36,ORD-1035,18-02-2024,21-02-2024,Same Day,West,Other,Kazookles,The Other Factory,463,8,119,344
+37,ORD-1036,16-04-2024,26-04-2024,Same Day,Central,Sugar,Fun Dip,Sugar Shack,440,9,176,264
+38,ORD-1037,29-02-2024,07-03-2024,Standard,East,Other,Fizzy Lifting Drinks,Secret Factory,485,5,247,238
+39,ORD-1038,14-02-2024,17-02-2024,Same Day,West,Other,Fizzy Lifting Drinks,Secret Factory,134,6,236,-102
+40,ORD-1039,13-02-2024,15-02-2024,Standard,South,Sugar,Nerds,Sugar Shack,480,2,93,387
+41,ORD-1040,15-12-2024,20-12-2024,Standard,South,Sugar,Laffy Taffy,Sugar Shack,206,8,148,58
+42,ORD-1041,21-10-2024,28-10-2024,Express,East,Sugar,SweeTARTS,Sugar Shack,120,6,187,-67
+43,ORD-1042,23-10-2024,02-11-2024,Standard,Central,Other,Kazookles,The Other Factory,176,7,57,119
+44,ORD-1043,27-08-2024,02-09-2024,Standard,East,Sugar,Fun Dip,Sugar Shack,204,4,184,20
+45,ORD-1044,14-11-2024,21-11-2024,Express,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,443,3,148,295
+46,ORD-1045,20-11-2024,30-11-2024,Express,Central,Sugar,Everlasting Gobstopper,Secret Factory,280,1,74,206
+47,ORD-1046,19-02-2024,25-02-2024,Same Day,East,Sugar,Everlasting Gobstopper,Secret Factory,245,4,119,126
+48,ORD-1047,11-09-2024,14-09-2024,Same Day,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,388,3,257,131
+49,ORD-1048,11-01-2024,17-01-2024,Same Day,Central,Sugar,Fun Dip,Sugar Shack,128,1,158,-30
+50,ORD-1049,05-12-2024,09-12-2024,Express,South,Sugar,Everlasting Gobstopper,Secret Factory,161,6,126,35
+51,ORD-1050,09-03-2024,17-03-2024,Same Day,East,Sugar,Fun Dip,Sugar Shack,261,10,229,32
+52,ORD-1051,17-10-2024,22-10-2024,Standard,Central,Sugar,Everlasting Gobstopper,Secret Factory,476,2,277,199
+53,ORD-1052,30-12-2024,01-01-2025,Same Day,East,Sugar,Laffy Taffy,Sugar Shack,455,5,299,156
+54,ORD-1053,09-08-2024,19-08-2024,Same Day,Central,Sugar,Laffy Taffy,Sugar Shack,112,9,233,-121
+55,ORD-1054,05-04-2024,10-04-2024,Standard,East,Sugar,Laffy Taffy,Sugar Shack,467,8,298,169
+56,ORD-1055,13-12-2024,22-12-2024,Same Day,West,Sugar,Everlasting Gobstopper,Secret Factory,116,8,281,-165
+57,ORD-1056,08-03-2024,18-03-2024,Standard,West,Sugar,Nerds,Sugar Shack,275,2,299,-24
+58,ORD-1057,18-06-2024,28-06-2024,Express,Central,Sugar,Hair Toffee,The Other Factory,285,3,66,219
+59,ORD-1058,26-08-2024,29-08-2024,Standard,Central,Sugar,Fun Dip,Sugar Shack,315,7,274,41
+60,ORD-1059,23-01-2024,27-01-2024,Same Day,South,Sugar,Hair Toffee,The Other Factory,107,6,116,-9
+61,ORD-1060,24-08-2024,31-08-2024,Express,West,Sugar,Laffy Taffy,Sugar Shack,266,6,53,213
+62,ORD-1061,02-10-2024,06-10-2024,Standard,East,Sugar,Laffy Taffy,Sugar Shack,458,4,155,303
+63,ORD-1062,18-10-2024,20-10-2024,Same Day,Central,Sugar,Laffy Taffy,Sugar Shack,427,6,285,142
+64,ORD-1063,21-04-2024,30-04-2024,Standard,South,Sugar,Laffy Taffy,Sugar Shack,116,2,142,-26
+65,ORD-1064,23-07-2024,27-07-2024,Same Day,West,Other,Kazookles,The Other Factory,328,4,201,127
+66,ORD-1065,30-09-2024,07-10-2024,Same Day,East,Other,Fizzy Lifting Drinks,Secret Factory,161,9,287,-126
+67,ORD-1066,15-09-2024,19-09-2024,Same Day,Central,Sugar,Everlasting Gobstopper,Secret Factory,196,8,219,-23
+68,ORD-1067,16-04-2024,23-04-2024,Express,West,Sugar,SweeTARTS,Sugar Shack,164,10,179,-15
+69,ORD-1068,05-09-2024,11-09-2024,Standard,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,236,5,266,-30
+70,ORD-1069,02-07-2024,10-07-2024,Express,South,Other,Kazookles,The Other Factory,148,2,90,58
+71,ORD-1070,12-09-2024,18-09-2024,Standard,Central,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,150,5,73,77
+72,ORD-1071,17-08-2024,23-08-2024,Express,West,Sugar,SweeTARTS,Sugar Shack,199,8,256,-57
+73,ORD-1072,15-08-2024,23-08-2024,Same Day,West,Other,Fizzy Lifting Drinks,Secret Factory,311,3,91,220
+74,ORD-1073,18-03-2024,23-03-2024,Standard,South,Sugar,Everlasting Gobstopper,Secret Factory,438,6,141,297
+75,ORD-1074,23-04-2024,01-05-2024,Express,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,497,2,263,234
+76,ORD-1075,10-04-2024,17-04-2024,Same Day,West,Sugar,Nerds,Sugar Shack,480,1,272,208
+77,ORD-1076,28-12-2024,30-12-2024,Standard,West,Sugar,Nerds,Sugar Shack,282,8,119,163
+78,ORD-1077,31-10-2024,03-11-2024,Standard,South,Other,Fizzy Lifting Drinks,Secret Factory,316,1,132,184
+79,ORD-1078,01-05-2024,11-05-2024,Standard,East,Sugar,Hair Toffee,The Other Factory,379,1,69,310
+80,ORD-1079,17-12-2024,27-12-2024,Standard,Central,Other,Kazookles,The Other Factory,245,2,257,-12
+81,ORD-1080,09-10-2024,18-10-2024,Express,East,Sugar,Hair Toffee,The Other Factory,149,8,184,-35
+82,ORD-1081,17-08-2024,23-08-2024,Express,South,Sugar,Everlasting Gobstopper,Secret Factory,387,2,133,254
+83,ORD-1082,03-05-2024,10-05-2024,Standard,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,219,6,225,-6
+84,ORD-1083,15-11-2024,18-11-2024,Same Day,South,Sugar,Everlasting Gobstopper,Secret Factory,279,4,264,15
+85,ORD-1084,19-04-2024,28-04-2024,Express,Central,Other,Kazookles,The Other Factory,482,4,201,281
+86,ORD-1085,16-01-2024,24-01-2024,Same Day,South,Sugar,Laffy Taffy,Sugar Shack,295,6,94,201
+87,ORD-1086,13-03-2024,19-03-2024,Express,Central,Sugar,Everlasting Gobstopper,Secret Factory,245,8,266,-21
+88,ORD-1087,13-04-2024,18-04-2024,Express,West,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,306,8,186,120
+89,ORD-1088,16-09-2024,25-09-2024,Same Day,West,Sugar,Laffy Taffy,Sugar Shack,234,2,248,-14
+90,ORD-1089,05-06-2024,13-06-2024,Standard,South,Sugar,Everlasting Gobstopper,Secret Factory,229,9,210,19
+91,ORD-1090,30-04-2024,02-05-2024,Express,East,Sugar,Fun Dip,Sugar Shack,484,5,97,387
+92,ORD-1091,07-05-2024,13-05-2024,Standard,Central,Sugar,Nerds,Sugar Shack,141,1,248,-107
+93,ORD-1092,04-04-2024,12-04-2024,Standard,Central,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,327,2,290,37
+94,ORD-1093,20-05-2024,29-05-2024,Standard,Central,Sugar,Hair Toffee,The Other Factory,227,3,74,153
+95,ORD-1094,01-11-2024,10-11-2024,Same Day,East,Other,Fizzy Lifting Drinks,Secret Factory,294,7,297,-3
+96,ORD-1095,02-05-2024,07-05-2024,Express,Central,Sugar,Hair Toffee,The Other Factory,333,5,116,217
+97,ORD-1096,28-06-2024,06-07-2024,Standard,West,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,389,3,99,290
+98,ORD-1097,12-08-2024,15-08-2024,Same Day,South,Sugar,Nerds,Sugar Shack,105,7,124,-19
+99,ORD-1098,11-06-2024,14-06-2024,Express,South,Sugar,Nerds,Sugar Shack,116,1,201,-85
+100,ORD-1099,04-02-2024,11-02-2024,Same Day,Central,Other,Fizzy Lifting Drinks,Secret Factory,420,7,269,151
+101,ORD-1100,16-02-2024,18-02-2024,Same Day,Central,Sugar,Nerds,Sugar Shack,394,1,118,276
+102,ORD-1101,20-05-2024,23-05-2024,Express,South,Sugar,Fun Dip,Sugar Shack,245,4,281,-36
+103,ORD-1102,20-02-2024,25-02-2024,Express,East,Sugar,Everlasting Gobstopper,Secret Factory,146,10,150,-4
+104,ORD-1103,20-02-2024,01-03-2024,Standard,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,379,10,253,126
+105,ORD-1104,16-10-2024,25-10-2024,Express,Central,Sugar,Fun Dip,Sugar Shack,100,8,276,-176
+106,ORD-1105,03-01-2024,07-01-2024,Express,West,Sugar,Fun Dip,Sugar Shack,485,5,136,349
+107,ORD-1106,14-06-2024,22-06-2024,Express,Central,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,280,10,82,198
+108,ORD-1107,06-09-2024,14-09-2024,Same Day,East,Sugar,Fun Dip,Sugar Shack,160,3,112,48
+109,ORD-1108,27-01-2024,01-02-2024,Standard,Central,Sugar,Nerds,Sugar Shack,106,2,106,0
+110,ORD-1109,08-06-2024,16-06-2024,Express,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,100,1,245,-145
+111,ORD-1110,18-02-2024,23-02-2024,Express,South,Other,Kazookles,The Other Factory,233,1,205,28
+112,ORD-1111,27-11-2024,02-12-2024,Express,Central,Sugar,Hair Toffee,The Other Factory,155,1,167,-12
+113,ORD-1112,04-07-2024,09-07-2024,Standard,West,Other,Fizzy Lifting Drinks,Secret Factory,409,6,85,324
+114,ORD-1113,20-07-2024,26-07-2024,Express,Central,Sugar,SweeTARTS,Sugar Shack,205,6,96,109
+115,ORD-1114,26-01-2024,31-01-2024,Same Day,East,Sugar,Nerds,Sugar Shack,404,10,297,107
+116,ORD-1115,18-12-2024,25-12-2024,Standard,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,416,1,78,338
+117,ORD-1116,08-07-2024,17-07-2024,Express,South,Sugar,Hair Toffee,The Other Factory,296,6,109,187
+118,ORD-1117,10-06-2024,17-06-2024,Express,West,Sugar,Hair Toffee,The Other Factory,131,3,275,-144
+119,ORD-1118,25-11-2024,02-12-2024,Express,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,490,4,280,210
+120,ORD-1119,07-12-2024,15-12-2024,Express,Central,Sugar,Fun Dip,Sugar Shack,350,4,96,254
+121,ORD-1120,24-03-2024,26-03-2024,Same Day,Central,Other,Kazookles,The Other Factory,237,8,293,-56
+122,ORD-1121,30-05-2024,01-06-2024,Standard,Central,Other,Fizzy Lifting Drinks,Secret Factory,420,3,284,136
+123,ORD-1122,24-07-2024,03-08-2024,Same Day,West,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,391,7,209,182
+124,ORD-1123,10-02-2024,13-02-2024,Express,South,Sugar,Hair Toffee,The Other Factory,239,3,101,138
+125,ORD-1124,23-12-2024,01-01-2025,Express,West,Other,Kazookles,The Other Factory,385,4,114,271
+126,ORD-1125,12-06-2024,15-06-2024,Standard,East,Sugar,Fun Dip,Sugar Shack,260,5,53,207
+127,ORD-1126,30-11-2024,07-12-2024,Standard,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,279,5,182,97
+128,ORD-1127,16-02-2024,26-02-2024,Standard,West,Other,Kazookles,The Other Factory,205,10,222,-17
+129,ORD-1128,03-05-2024,13-05-2024,Express,West,Sugar,Hair Toffee,The Other Factory,469,3,233,236
+130,ORD-1129,08-05-2024,12-05-2024,Same Day,East,Sugar,Laffy Taffy,Sugar Shack,262,1,83,179
+131,ORD-1130,20-07-2024,26-07-2024,Standard,East,Sugar,Hair Toffee,The Other Factory,254,1,68,186
+132,ORD-1131,22-01-2024,30-01-2024,Express,South,Sugar,Nerds,Sugar Shack,498,8,205,293
+133,ORD-1132,29-03-2024,07-04-2024,Standard,South,Sugar,Hair Toffee,The Other Factory,111,2,144,-33
+134,ORD-1133,02-02-2024,05-02-2024,Same Day,South,Sugar,SweeTARTS,Sugar Shack,286,2,80,206
+135,ORD-1134,19-03-2024,27-03-2024,Express,Central,Other,Fizzy Lifting Drinks,Secret Factory,212,8,150,62
+136,ORD-1135,20-08-2024,30-08-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,396,4,167,229
+137,ORD-1136,22-04-2024,01-05-2024,Standard,Central,Sugar,Fun Dip,Sugar Shack,315,4,286,29
+138,ORD-1137,03-09-2024,10-09-2024,Same Day,West,Sugar,SweeTARTS,Sugar Shack,428,3,134,294
+139,ORD-1138,29-08-2024,04-09-2024,Same Day,South,Sugar,SweeTARTS,Sugar Shack,321,3,165,156
+140,ORD-1139,16-02-2024,22-02-2024,Same Day,South,Other,Fizzy Lifting Drinks,Secret Factory,472,1,191,281
+141,ORD-1140,09-03-2024,17-03-2024,Standard,Central,Sugar,SweeTARTS,Sugar Shack,402,4,288,114
+142,ORD-1141,16-08-2024,20-08-2024,Standard,South,Sugar,Laffy Taffy,Sugar Shack,214,6,278,-64
+143,ORD-1142,22-08-2024,25-08-2024,Same Day,South,Sugar,Fun Dip,Sugar Shack,322,5,70,252
+144,ORD-1143,19-03-2024,24-03-2024,Same Day,South,Other,Kazookles,The Other Factory,396,4,83,313
+145,ORD-1144,17-08-2024,26-08-2024,Standard,East,Other,Kazookles,The Other Factory,309,7,170,139
+146,ORD-1145,29-09-2024,03-10-2024,Standard,East,Sugar,Hair Toffee,The Other Factory,469,8,274,195
+147,ORD-1146,14-10-2024,17-10-2024,Express,East,Sugar,Hair Toffee,The Other Factory,266,3,296,-30
+148,ORD-1147,31-03-2024,04-04-2024,Express,Central,Sugar,SweeTARTS,Sugar Shack,348,1,272,76
+149,ORD-1148,20-06-2024,24-06-2024,Express,South,Sugar,Everlasting Gobstopper,Secret Factory,448,6,147,301
+150,ORD-1149,04-06-2024,09-06-2024,Express,Central,Other,Kazookles,The Other Factory,320,7,209,111
+151,ORD-1150,02-08-2024,11-08-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,452,6,231,221
+152,ORD-1151,03-07-2024,09-07-2024,Standard,East,Other,Fizzy Lifting Drinks,Secret Factory,213,9,132,81
+153,ORD-1152,11-10-2024,19-10-2024,Standard,East,Sugar,SweeTARTS,Sugar Shack,484,2,214,270
+154,ORD-1153,11-11-2024,21-11-2024,Express,West,Other,Kazookles,The Other Factory,469,1,122,347
+155,ORD-1154,19-02-2024,21-02-2024,Standard,South,Sugar,Hair Toffee,The Other Factory,497,5,186,311
+156,ORD-1155,12-12-2024,16-12-2024,Same Day,East,Sugar,SweeTARTS,Sugar Shack,153,8,193,-40
+157,ORD-1156,19-09-2024,26-09-2024,Express,South,Sugar,Hair Toffee,The Other Factory,302,9,232,70
+158,ORD-1157,05-04-2024,12-04-2024,Same Day,East,Sugar,Nerds,Sugar Shack,487,10,287,200
+159,ORD-1158,23-01-2024,02-02-2024,Same Day,West,Other,Kazookles,The Other Factory,121,2,148,-27
+160,ORD-1159,12-09-2024,18-09-2024,Express,East,Other,Fizzy Lifting Drinks,Secret Factory,189,10,231,-42
+161,ORD-1160,28-02-2024,06-03-2024,Standard,Central,Sugar,Everlasting Gobstopper,Secret Factory,488,6,248,240
+162,ORD-1161,26-08-2024,30-08-2024,Same Day,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,200,6,112,88
+163,ORD-1162,28-08-2024,30-08-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,158,9,62,96
+164,ORD-1163,06-05-2024,08-05-2024,Same Day,West,Sugar,Hair Toffee,The Other Factory,278,10,144,134
+165,ORD-1164,15-01-2024,20-01-2024,Same Day,Central,Other,Fizzy Lifting Drinks,Secret Factory,271,5,292,-21
+166,ORD-1165,06-11-2024,13-11-2024,Same Day,East,Sugar,Hair Toffee,The Other Factory,155,4,54,101
+167,ORD-1166,11-12-2024,19-12-2024,Express,South,Sugar,Everlasting Gobstopper,Secret Factory,361,3,206,155
+168,ORD-1167,05-02-2024,15-02-2024,Express,West,Other,Fizzy Lifting Drinks,Secret Factory,198,9,109,89
+169,ORD-1168,26-08-2024,29-08-2024,Same Day,Central,Sugar,Hair Toffee,The Other Factory,406,2,168,238
+170,ORD-1169,21-01-2024,30-01-2024,Standard,West,Sugar,Laffy Taffy,Sugar Shack,104,3,210,-106
+171,ORD-1170,21-07-2024,31-07-2024,Express,East,Sugar,Everlasting Gobstopper,Secret Factory,184,5,207,-23
+172,ORD-1171,28-12-2024,30-12-2024,Same Day,Central,Sugar,Nerds,Sugar Shack,464,10,55,409
+173,ORD-1172,09-02-2024,12-02-2024,Express,West,Sugar,Fun Dip,Sugar Shack,295,1,87,208
+174,ORD-1173,21-12-2024,27-12-2024,Standard,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,325,9,264,61
+175,ORD-1174,03-03-2024,07-03-2024,Standard,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,434,4,159,275
+176,ORD-1175,17-01-2024,23-01-2024,Standard,Central,Sugar,Hair Toffee,The Other Factory,486,8,269,217
+177,ORD-1176,30-06-2024,06-07-2024,Same Day,South,Other,Fizzy Lifting Drinks,Secret Factory,123,5,150,-27
+178,ORD-1177,17-05-2024,24-05-2024,Standard,East,Sugar,Nerds,Sugar Shack,284,6,280,4
+179,ORD-1178,31-05-2024,06-06-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,247,4,205,42
+180,ORD-1179,16-05-2024,26-05-2024,Same Day,West,Other,Kazookles,The Other Factory,351,4,64,287
+181,ORD-1180,13-11-2024,21-11-2024,Standard,West,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,255,4,77,178
+182,ORD-1181,11-07-2024,18-07-2024,Standard,Central,Sugar,Nerds,Sugar Shack,458,3,289,169
+183,ORD-1182,09-06-2024,14-06-2024,Same Day,East,Other,Kazookles,The Other Factory,453,1,53,400
+184,ORD-1183,27-06-2024,04-07-2024,Standard,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,181,7,259,-78
+185,ORD-1184,20-05-2024,28-05-2024,Express,East,Other,Kazookles,The Other Factory,147,1,80,67
+186,ORD-1185,28-09-2024,01-10-2024,Express,West,Sugar,Nerds,Sugar Shack,217,10,247,-30
+187,ORD-1186,21-01-2024,31-01-2024,Express,South,Sugar,Fun Dip,Sugar Shack,442,6,282,160
+188,ORD-1187,26-12-2024,03-01-2025,Standard,East,Sugar,Laffy Taffy,Sugar Shack,155,5,137,18
+189,ORD-1188,09-10-2024,16-10-2024,Express,Central,Other,Fizzy Lifting Drinks,Secret Factory,481,5,72,409
+190,ORD-1189,29-01-2024,06-02-2024,Standard,Central,Other,Fizzy Lifting Drinks,Secret Factory,485,8,102,383
+191,ORD-1190,26-03-2024,29-03-2024,Standard,South,Sugar,SweeTARTS,Sugar Shack,359,1,117,242
+192,ORD-1191,07-02-2024,13-02-2024,Express,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,116,3,103,13
+193,ORD-1192,22-09-2024,27-09-2024,Standard,West,Sugar,Laffy Taffy,Sugar Shack,438,10,72,366
+194,ORD-1193,06-05-2024,14-05-2024,Standard,South,Sugar,SweeTARTS,Sugar Shack,150,2,285,-135
+195,ORD-1194,20-09-2024,30-09-2024,Express,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,353,2,264,89
+196,ORD-1195,23-09-2024,25-09-2024,Express,East,Sugar,Fun Dip,Sugar Shack,178,1,86,92
+197,ORD-1196,05-10-2024,15-10-2024,Standard,South,Sugar,Everlasting Gobstopper,Secret Factory,275,1,259,16
+198,ORD-1197,18-11-2024,28-11-2024,Same Day,East,Sugar,Nerds,Sugar Shack,494,8,271,223
+199,ORD-1198,20-10-2024,23-10-2024,Express,Central,Other,Fizzy Lifting Drinks,Secret Factory,440,8,145,295
+200,ORD-1199,06-07-2024,08-07-2024,Standard,South,Sugar,Laffy Taffy,Sugar Shack,462,4,137,325
+201,ORD-1200,08-01-2024,17-01-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,260,4,112,148
+202,ORD-1201,19-12-2024,27-12-2024,Express,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,464,9,57,407
+203,ORD-1202,23-04-2024,25-04-2024,Standard,West,Sugar,Laffy Taffy,Sugar Shack,107,9,50,57
+204,ORD-1203,18-06-2024,28-06-2024,Same Day,East,Other,Fizzy Lifting Drinks,Secret Factory,384,8,114,270
+205,ORD-1204,08-10-2024,18-10-2024,Same Day,South,Sugar,Hair Toffee,The Other Factory,493,9,230,263
+206,ORD-1205,18-01-2024,23-01-2024,Standard,Central,Sugar,Fun Dip,Sugar Shack,205,3,167,38
+207,ORD-1206,28-10-2024,31-10-2024,Standard,Central,Other,Fizzy Lifting Drinks,Secret Factory,479,3,243,236
+208,ORD-1207,29-01-2024,06-02-2024,Express,East,Other,Kazookles,The Other Factory,410,9,115,295
+209,ORD-1208,26-08-2024,30-08-2024,Same Day,East,Other,Kazookles,The Other Factory,116,6,199,-83
+210,ORD-1209,01-05-2024,10-05-2024,Express,East,Sugar,Everlasting Gobstopper,Secret Factory,213,7,112,101
+211,ORD-1210,16-04-2024,26-04-2024,Same Day,West,Sugar,SweeTARTS,Sugar Shack,242,8,231,11
+212,ORD-1211,26-03-2024,31-03-2024,Express,Central,Other,Kazookles,The Other Factory,491,2,61,430
+213,ORD-1212,07-12-2024,14-12-2024,Express,Central,Other,Kazookles,The Other Factory,156,9,294,-138
+214,ORD-1213,13-05-2024,15-05-2024,Same Day,Central,Sugar,Everlasting Gobstopper,Secret Factory,359,9,78,281
+215,ORD-1214,26-11-2024,01-12-2024,Standard,East,Sugar,Hair Toffee,The Other Factory,174,7,82,92
+216,ORD-1215,19-05-2024,25-05-2024,Express,East,Other,Kazookles,The Other Factory,270,6,70,200
+217,ORD-1216,22-09-2024,29-09-2024,Same Day,East,Other,Kazookles,The Other Factory,289,5,200,89
+218,ORD-1217,20-10-2024,28-10-2024,Standard,Central,Sugar,Nerds,Sugar Shack,103,3,175,-72
+219,ORD-1218,19-10-2024,24-10-2024,Express,Central,Sugar,Fun Dip,Sugar Shack,188,2,69,119
+220,ORD-1219,26-02-2024,05-03-2024,Express,Central,Sugar,Hair Toffee,The Other Factory,426,5,217,209
+221,ORD-1220,09-11-2024,15-11-2024,Standard,Central,Sugar,Nerds,Sugar Shack,332,3,232,100
+222,ORD-1221,04-11-2024,10-11-2024,Same Day,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,349,6,251,98
+223,ORD-1222,05-12-2024,07-12-2024,Same Day,Central,Other,Fizzy Lifting Drinks,Secret Factory,241,8,110,131
+224,ORD-1223,31-05-2024,10-06-2024,Same Day,Central,Sugar,Fun Dip,Sugar Shack,299,4,194,105
+225,ORD-1224,21-12-2024,25-12-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,352,10,174,178
+226,ORD-1225,06-11-2024,09-11-2024,Standard,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,114,3,132,-18
+227,ORD-1226,04-04-2024,09-04-2024,Standard,Central,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,367,4,293,74
+228,ORD-1227,11-05-2024,20-05-2024,Express,South,Sugar,Nerds,Sugar Shack,164,8,72,92
+229,ORD-1228,24-06-2024,30-06-2024,Same Day,Central,Sugar,Laffy Taffy,Sugar Shack,172,8,133,39
+230,ORD-1229,26-11-2024,30-11-2024,Same Day,West,Sugar,Nerds,Sugar Shack,487,3,72,415
+231,ORD-1230,27-07-2024,01-08-2024,Same Day,Central,Sugar,Fun Dip,Sugar Shack,332,2,55,277
+232,ORD-1231,16-02-2024,24-02-2024,Standard,South,Other,Fizzy Lifting Drinks,Secret Factory,471,2,236,235
+233,ORD-1232,14-02-2024,20-02-2024,Standard,West,Sugar,Laffy Taffy,Sugar Shack,277,4,281,-4
+234,ORD-1233,30-05-2024,06-06-2024,Same Day,South,Sugar,Everlasting Gobstopper,Secret Factory,293,4,255,38
+235,ORD-1234,06-01-2024,12-01-2024,Express,West,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,316,5,138,178
+236,ORD-1235,07-05-2024,15-05-2024,Same Day,Central,Sugar,Everlasting Gobstopper,Secret Factory,288,5,237,51
+237,ORD-1236,16-11-2024,21-11-2024,Express,Central,Sugar,Nerds,Sugar Shack,416,7,151,265
+238,ORD-1237,29-03-2024,04-04-2024,Standard,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,337,2,204,133
+239,ORD-1238,10-05-2024,16-05-2024,Same Day,Central,Other,Kazookles,The Other Factory,298,5,236,62
+240,ORD-1239,20-07-2024,25-07-2024,Express,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,138,5,120,18
+241,ORD-1240,04-12-2024,08-12-2024,Same Day,South,Sugar,SweeTARTS,Sugar Shack,133,5,193,-60
+242,ORD-1241,09-11-2024,18-11-2024,Same Day,West,Sugar,Everlasting Gobstopper,Secret Factory,471,6,86,385
+243,ORD-1242,11-11-2024,14-11-2024,Express,East,Sugar,Everlasting Gobstopper,Secret Factory,129,1,277,-148
+244,ORD-1243,31-03-2024,09-04-2024,Same Day,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,330,6,70,260
+245,ORD-1244,05-11-2024,07-11-2024,Standard,East,Sugar,SweeTARTS,Sugar Shack,277,8,279,-2
+246,ORD-1245,22-04-2024,01-05-2024,Standard,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,126,9,276,-150
+247,ORD-1246,23-12-2024,30-12-2024,Standard,East,Other,Fizzy Lifting Drinks,Secret Factory,183,2,111,72
+248,ORD-1247,08-11-2024,10-11-2024,Same Day,West,Sugar,Laffy Taffy,Sugar Shack,224,3,260,-36
+249,ORD-1248,16-10-2024,19-10-2024,Standard,East,Other,Fizzy Lifting Drinks,Secret Factory,260,9,185,75
+250,ORD-1249,20-06-2024,29-06-2024,Standard,South,Other,Kazookles,The Other Factory,205,7,165,40
+251,ORD-1250,20-07-2024,23-07-2024,Express,East,Other,Fizzy Lifting Drinks,Secret Factory,474,5,293,181
+252,ORD-1251,26-02-2024,28-02-2024,Standard,Central,Sugar,Hair Toffee,The Other Factory,268,6,184,84
+253,ORD-1252,21-12-2024,30-12-2024,Same Day,West,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,415,10,180,235
+254,ORD-1253,17-04-2024,24-04-2024,Express,South,Sugar,Nerds,Sugar Shack,426,10,126,300
+255,ORD-1254,27-05-2024,06-06-2024,Express,West,Sugar,Fun Dip,Sugar Shack,358,1,194,164
+256,ORD-1255,10-08-2024,18-08-2024,Standard,East,Sugar,Hair Toffee,The Other Factory,257,4,199,58
+257,ORD-1256,12-08-2024,16-08-2024,Same Day,South,Other,Kazookles,The Other Factory,381,10,175,206
+258,ORD-1257,29-08-2024,02-09-2024,Express,West,Sugar,Fun Dip,Sugar Shack,444,9,271,173
+259,ORD-1258,20-08-2024,22-08-2024,Same Day,West,Sugar,Hair Toffee,The Other Factory,332,4,66,266
+260,ORD-1259,03-06-2024,13-06-2024,Same Day,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,328,6,210,118
+261,ORD-1260,15-02-2024,24-02-2024,Standard,Central,Sugar,Everlasting Gobstopper,Secret Factory,357,10,185,172
+262,ORD-1261,09-12-2024,17-12-2024,Same Day,West,Sugar,Everlasting Gobstopper,Secret Factory,334,10,95,239
+263,ORD-1262,03-04-2024,10-04-2024,Standard,West,Other,Fizzy Lifting Drinks,Secret Factory,490,3,235,255
+264,ORD-1263,27-08-2024,30-08-2024,Same Day,East,Sugar,Everlasting Gobstopper,Secret Factory,307,8,109,198
+265,ORD-1264,19-04-2024,22-04-2024,Standard,South,Sugar,SweeTARTS,Sugar Shack,320,1,206,114
+266,ORD-1265,12-09-2024,14-09-2024,Standard,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,105,1,274,-169
+267,ORD-1266,01-11-2024,05-11-2024,Same Day,East,Sugar,Fun Dip,Sugar Shack,249,3,111,138
+268,ORD-1267,16-06-2024,25-06-2024,Same Day,West,Sugar,SweeTARTS,Sugar Shack,264,2,270,-6
+269,ORD-1268,24-11-2024,27-11-2024,Express,South,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,194,5,107,87
+270,ORD-1269,29-10-2024,08-11-2024,Standard,South,Other,Fizzy Lifting Drinks,Secret Factory,135,6,100,35
+271,ORD-1270,02-12-2024,07-12-2024,Express,East,Sugar,Fun Dip,Sugar Shack,251,2,100,151
+272,ORD-1271,18-09-2024,24-09-2024,Express,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,428,1,171,257
+273,ORD-1272,08-09-2024,17-09-2024,Standard,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,228,1,212,16
+274,ORD-1273,18-12-2024,21-12-2024,Express,South,Sugar,Hair Toffee,The Other Factory,336,7,129,207
+275,ORD-1274,01-05-2024,08-05-2024,Standard,West,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,461,5,283,178
+276,ORD-1275,17-11-2024,25-11-2024,Express,South,Sugar,Nerds,Sugar Shack,388,9,90,298
+277,ORD-1276,23-05-2024,26-05-2024,Standard,South,Sugar,Fun Dip,Sugar Shack,127,8,166,-39
+278,ORD-1277,07-07-2024,15-07-2024,Express,West,Sugar,Laffy Taffy,Sugar Shack,491,5,148,343
+279,ORD-1278,03-04-2024,05-04-2024,Standard,East,Other,Fizzy Lifting Drinks,Secret Factory,375,10,185,190
+280,ORD-1279,09-03-2024,16-03-2024,Express,West,Sugar,Hair Toffee,The Other Factory,285,2,99,186
+281,ORD-1280,16-06-2024,24-06-2024,Express,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,418,5,169,249
+282,ORD-1281,05-06-2024,12-06-2024,Express,Central,Sugar,SweeTARTS,Sugar Shack,173,4,136,37
+283,ORD-1282,14-11-2024,19-11-2024,Same Day,East,Other,Kazookles,The Other Factory,490,2,98,392
+284,ORD-1283,08-09-2024,14-09-2024,Express,South,Sugar,Everlasting Gobstopper,Secret Factory,317,3,195,122
+285,ORD-1284,23-05-2024,28-05-2024,Same Day,South,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,418,8,269,149
+286,ORD-1285,06-09-2024,09-09-2024,Same Day,West,Sugar,Everlasting Gobstopper,Secret Factory,270,9,229,41
+287,ORD-1286,24-09-2024,02-10-2024,Same Day,Central,Sugar,SweeTARTS,Sugar Shack,194,1,183,11
+288,ORD-1287,23-12-2024,31-12-2024,Standard,Central,Sugar,Nerds,Sugar Shack,252,4,272,-20
+289,ORD-1288,03-03-2024,09-03-2024,Same Day,East,Sugar,Fun Dip,Sugar Shack,142,2,210,-68
+290,ORD-1289,03-07-2024,09-07-2024,Standard,West,Sugar,Nerds,Sugar Shack,429,3,261,168
+291,ORD-1290,23-07-2024,30-07-2024,Express,Central,Sugar,Laffy Taffy,Sugar Shack,102,3,268,-166
+292,ORD-1291,22-12-2024,27-12-2024,Express,East,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,255,6,233,22
+293,ORD-1292,31-03-2024,10-04-2024,Express,Central,Chocolate,Wonka Bar – Milk Chocolate,Wicked Choccy's,103,4,287,-184
+294,ORD-1293,05-04-2024,10-04-2024,Same Day,West,Other,Fizzy Lifting Drinks,Secret Factory,389,10,300,89
+295,ORD-1294,22-08-2024,29-08-2024,Express,South,Sugar,SweeTARTS,Sugar Shack,228,6,127,101
+296,ORD-1295,20-08-2024,26-08-2024,Express,West,Other,Fizzy Lifting Drinks,Secret Factory,317,8,291,26
+297,ORD-1296,31-05-2024,09-06-2024,Express,East,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,172,8,236,-64
+298,ORD-1297,13-03-2024,21-03-2024,Express,East,Other,Fizzy Lifting Drinks,Secret Factory,249,3,111,138
+299,ORD-1298,10-09-2024,15-09-2024,Same Day,West,Other,Kazookles,The Other Factory,384,4,232,152
+300,ORD-1299,31-12-2024,05-01-2025,Same Day,Central,Chocolate,Wonka Bar – Triple Dazzle Caramel,Wicked Choccy's,204,2,174,30

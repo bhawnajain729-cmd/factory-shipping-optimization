@@ -1,0 +1,21 @@
+
+Factory Reallocation & Shipping Optimization System
+
+Introduction
+This project analyzes shipping performance for Nassau Candy Distributor and recommends better factory assignments.
+
+Problem Statement
+Shipping delays and inefficient factory assignments increase delivery time and logistics costs.
+
+Methodology
+Data analysis and predictive modeling were used to estimate shipping lead time and simulate factory reassignment.
+
+Key Insights
+Certain factories consistently produce faster shipping times.
+Region and ship mode significantly affect delivery speed.
+
+Recommendation
+Use predictive analytics to assign products to optimal factories to reduce shipping lead times.
+
+Conclusion
+The system improves logistics efficiency and supports better business decisions.
